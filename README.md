@@ -47,35 +47,86 @@
   📫 Me contacter: <a href="mailto:sanogoadama776@tuta.io">sanogoadama776@tuta.io</a> | 📱 0779323110 / 0500083939
 </p>
 
-<!-- Co-fondateur avec logos -->
-## <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="28"> Entreprises Co-fondées
+<!-- Empire entrepreneurial - visualisation avancée -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28">
+  <span style="background: linear-gradient(to right, #FF6B6B, #6C63FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">EMPIRE ENTREPRENEURIAL</span>
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28">
+</h2>
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://credilo.ci/" target="_blank">
-          <img src="https://cdn.oromo.agency/credilo.png" width="100" alt="Credilo"/>
-          <br/>
-          <b>Credilo</b>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://www.oromo.agency/" target="_blank">
-          <img src="https://res.cloudinary.com/ddofgbxfd/image/upload/w_100,h_100,c_fit,q_100,f_png,dpr_2.0/xuxegykcznkpdsvwdg59" width="100" alt="Oromo Agency"/>
-          <br/>
-          <b>Oromo Agency</b>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://www.facebook.com/groups/231030537851701" target="_blank">
-          <img src="https://cdn.oromo.agency/yedor.png" width="100" alt="Yedor"/>
-          <br/>
-          <b>Yedor</b>
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+  
+  <!-- Yedor Card - Orange style -->
+  <div style="width: 320px; background: linear-gradient(145deg, #FF8C42, #EE6C4D); border-radius: 15px; padding: 20px; color: white; margin-bottom: 20px; box-shadow: 0 10px 20px rgba(238, 108, 77, 0.2);">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <img src="https://cdn.oromo.agency/yedor.png" width="50" height="50" style="border-radius: 50%; background: white; padding: 5px;" />
+      <span style="font-size: 24px; font-weight: bold; margin-left: 15px;">Yedor</span>
+      <a href="https://www.facebook.com/groups/231030537851701" target="_blank" style="margin-left: auto;">
+        <img src="https://img.icons8.com/ios-filled/24/FFFFFF/external-link.png" width="22" />
+      </a>
+    </div>
+    <p style="margin-bottom: 15px; font-size: 15px; line-height: 1.5;">
+      Application de réservation immobilière en Côte d'Ivoire, connectant propriétaires et locataires. Un service local optimisé, inspiré du modèle Airbnb.
+    </p>
+    <div>
+      <strong style="display: block; margin-bottom: 10px; font-size: 14px;">Technologies:</strong>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; font-size: 12px;">
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">React</span>
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">Node.js</span>
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">MongoDB</span>
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">Google Maps API</span>
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">Stripe</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Credilo Card - Purple style -->
+  <div style="width: 320px; background: linear-gradient(145deg, #9370DB, #5E60CE); border-radius: 15px; padding: 20px; color: white; margin-bottom: 20px; box-shadow: 0 10px 20px rgba(94, 96, 206, 0.2);">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <img src="https://cdn.oromo.agency/credilo.png" width="50" height="50" style="border-radius: 50%; background: white; padding: 5px;" />
+      <span style="font-size: 24px; font-weight: bold; margin-left: 15px;">Credilo</span>
+      <a href="https://credilo.ci/" target="_blank" style="margin-left: auto;">
+        <img src="https://img.icons8.com/ios-filled/24/FFFFFF/external-link.png" width="22" />
+      </a>
+    </div>
+    <p style="margin-bottom: 15px; font-size: 15px; line-height: 1.5;">
+      Plateforme mobile simplifiant l'achat de crédit téléphonique, souscriptions, transferts d'argent, cartes cadeaux et Visa prépayée. Une solution rapide, sécurisée et accessible à tous.
+    </p>
+    <div>
+      <strong style="display: block; margin-bottom: 10px; font-size: 14px;">Technologies:</strong>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; font-size: 12px;">
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">Vue.js</span>
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">Firebase</span>
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">TailwindCSS</span>
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">PWA</span>
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">Mobile Money</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Oromo Agency Card - Blue style -->
+  <div style="width: 320px; background: linear-gradient(145deg, #4EA8DE, #3A86FF); border-radius: 15px; padding: 20px; color: white; margin-bottom: 20px; box-shadow: 0 10px 20px rgba(58, 134, 255, 0.2);">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <img src="https://res.cloudinary.com/ddofgbxfd/image/upload/w_100,h_100,c_fit,q_100,f_png,dpr_2.0/xuxegykcznkpdsvwdg59" width="50" height="50" style="border-radius: 50%; background: white; padding: 5px;" />
+      <span style="font-size: 24px; font-weight: bold; margin-left: 15px;">Oromo Agency</span>
+      <a href="https://www.oromo.agency/" target="_blank" style="margin-left: auto;">
+        <img src="https://img.icons8.com/ios-filled/24/FFFFFF/external-link.png" width="22" />
+      </a>
+    </div>
+    <p style="margin-bottom: 15px; font-size: 15px; line-height: 1.5;">
+      Agence digitale basée à Abidjan, spécialisée en développement web, marketing digital, IA et cybersécurité. Nous créons des solutions sur mesure pour divers secteurs.
+    </p>
+    <div>
+      <strong style="display: block; margin-bottom: 10px; font-size: 14px;">Technologies:</strong>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; font-size: 12px;">
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">React</span>
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">Google Analytics</span>
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">Expo</span>
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">SEO Tools</span>
+        <span style="background: rgba(255, 255, 255, 0.2); padding: 5px 12px; border-radius: 20px;">Meta Ads</span>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Super-pouvoirs techniques -->
