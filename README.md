@@ -112,36 +112,35 @@ Agence digitale basée à Abidjan, spécialisée en développement web, marketin
 
 <!-- Visualisation des compétences avec barres de progression compatibles GitHub -->
 <div align="center">
-  <!-- Table des compétences avec alignement amélioré -->
-  <table width="85%">
+  <table>
     <tr>
       <td width="40%" align="right"><b>CYBERSÉCURITÉ</b></td>
       <td width="60%">
-        <img src="https://progress-bar.dev/95/?width=100&color=6C63FF" alt="Cybersécurité 95%" width="100%">
+        <img src="https://progress-bar.dev/95/?width=400&color=6C63FF" alt="Cybersécurité" />
       </td>
     </tr>
     <tr>
       <td width="40%" align="right"><b>DÉVELOPPEMENT FRONT-END</b></td>
       <td width="60%">
-        <img src="https://progress-bar.dev/90/?width=100&color=6C63FF" alt="Développement Front-end 90%" width="100%">
+        <img src="https://progress-bar.dev/90/?width=400&color=6C63FF" alt="Front-end" />
       </td>
     </tr>
     <tr>
       <td width="40%" align="right"><b>DÉVELOPPEMENT BACK-END</b></td>
       <td width="60%">
-        <img src="https://progress-bar.dev/85/?width=100&color=6C63FF" alt="Développement Back-end 85%" width="100%">
+        <img src="https://progress-bar.dev/85/?width=400&color=6C63FF" alt="Back-end" />
       </td>
     </tr>
     <tr>
       <td width="40%" align="right"><b>GESTION DE PROJET</b></td>
       <td width="60%">
-        <img src="https://progress-bar.dev/92/?width=100&color=6C63FF" alt="Gestion de Projet 92%" width="100%">
+        <img src="https://progress-bar.dev/92/?width=400&color=6C63FF" alt="Gestion de projet" />
       </td>
     </tr>
     <tr>
       <td width="40%" align="right"><b>SEO & ANALYTICS</b></td>
       <td width="60%">
-        <img src="https://progress-bar.dev/88/?width=100&color=6C63FF" alt="SEO & Analytics 88%" width="100%">
+        <img src="https://progress-bar.dev/88/?width=400&color=6C63FF" alt="SEO & Analytics" />
       </td>
     </tr>
   </table>
