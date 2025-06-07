@@ -279,9 +279,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
 
-<!-- Animation Snake contribution -->
+<!-- Animation Snake contribution - version statique sans workflow -->
 <div align="center">
-  <img src="https://github.com/Mrsanogo/Mrsanogo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <!-- Compteur de visiteurs -->
