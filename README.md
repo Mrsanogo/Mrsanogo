@@ -55,167 +55,178 @@
 </h2>
 
 <div align="center">
-
-<table>
-<tr>
-<td width="33%">
-  
-![Yedor](https://cdn.oromo.agency/yedor.png)
-  
+<table width="100%">
+<tr align="center">
+<td align="center" width="33%">
+  <a href="https://www.facebook.com/groups/231030537851701">
+    <img src="https://cdn.oromo.agency/yedor.png" width="80px" height="80px" alt="Yedor Logo">
+    
 ### Yedor 
-  
+    
 Application de réservation immobilière en Côte d'Ivoire, connectant propriétaires et locataires. Un service local optimisé, inspiré du modèle Airbnb.
 
 **Technologies:** 
 `React` `Node.js` `MongoDB` `Google Maps API` `Stripe`
 
-[🔗 Découvrir Yedor](https://www.facebook.com/groups/231030537851701)
-
+<img src="https://img.shields.io/badge/Découvrir_Yedor-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Découvrir Yedor">
+  </a>
 </td>
-<td width="33%">
-
-![Credilo](https://cdn.oromo.agency/credilo.png)
-
+<td align="center" width="33%">
+  <a href="https://credilo.ci/">
+    <img src="https://cdn.oromo.agency/credilo.png" width="80px" height="80px" alt="Credilo Logo">
+    
 ### Credilo
-
+    
 Plateforme mobile simplifiant l'achat de crédit téléphonique, souscriptions, transferts d'argent, cartes cadeaux et Visa prépayée. Une solution rapide, sécurisée et accessible à tous.
 
 **Technologies:**
 `Vue.js` `Firebase` `TailwindCSS` `PWA` `Mobile Money`
 
-[🔗 Découvrir Credilo](https://credilo.ci/)
-
+<img src="https://img.shields.io/badge/Découvrir_Credilo-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Découvrir Credilo">
+  </a>
 </td>
-<td width="33%">
-
-![Oromo Agency](https://res.cloudinary.com/ddofgbxfd/image/upload/w_100,h_100,c_fit,q_100,f_png,dpr_2.0/xuxegykcznkpdsvwdg59)
-
+<td align="center" width="33%">
+  <a href="https://www.oromo.agency/">
+    <img src="https://cdn.oromo.agency/oromo.png" width="80px" height="80px" alt="Oromo Agency Logo">
+    
 ### Oromo Agency
-
+    
 Agence digitale basée à Abidjan, spécialisée en développement web, marketing digital, IA et cybersécurité. Nous créons des solutions sur mesure pour divers secteurs.
 
 **Technologies:**
 `React` `Google Analytics` `Expo` `SEO Tools` `Meta Ads`
 
-[🔗 Découvrir Oromo](https://www.oromo.agency/)
-
+<img src="https://img.shields.io/badge/Découvrir_Oromo-6C63FF?style=for-the-badge&logo=globe&logoColor=white" alt="Découvrir Oromo">
+  </a>
 </td>
 </tr>
 </table>
-
 </div>
 
 <!-- Super-pouvoirs techniques -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="28">
   SUPER-POUVOIRS TECHNIQUES
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="28">
 </h2>
 
-<!-- Visualisation des compétences avec barres de progression -->
+<!-- Visualisation des compétences avec barres de progression compatibles GitHub -->
 <div align="center">
-  <table width="85%" style="margin-top:20px">
+  <!-- Table des compétences avec alignement amélioré -->
+  <table width="85%">
     <tr>
-      <td width="40%">CYBERSÉCURITÉ</td>
+      <td width="40%" align="right"><b>CYBERSÉCURITÉ</b></td>
       <td width="60%">
-        <div style="background-color: #ddd; border-radius: 10px; height: 20px;">
-          <div style="background: linear-gradient(to right, #FF6B6B, #6C63FF); border-radius: 10px; height: 20px; width: 95%;"></div>
-        </div>
+        <img src="https://progress-bar.dev/95/?width=100&color=6C63FF" alt="Cybersécurité 95%" width="100%">
       </td>
     </tr>
     <tr>
-      <td width="40%">MARKETING DIGITAL</td>
+      <td width="40%" align="right"><b>DÉVELOPPEMENT FRONT-END</b></td>
       <td width="60%">
-        <div style="background-color: #ddd; border-radius: 10px; height: 20px;">
-          <div style="background: linear-gradient(to right, #FF6B6B, #6C63FF); border-radius: 10px; height: 20px; width: 90%;"></div>
-        </div>
+        <img src="https://progress-bar.dev/90/?width=100&color=6C63FF" alt="Développement Front-end 90%" width="100%">
       </td>
     </tr>
     <tr>
-      <td width="40%">DÉVELOPPEMENT WEB</td>
+      <td width="40%" align="right"><b>DÉVELOPPEMENT BACK-END</b></td>
       <td width="60%">
-        <div style="background-color: #ddd; border-radius: 10px; height: 20px;">
-          <div style="background: linear-gradient(to right, #FF6B6B, #6C63FF); border-radius: 10px; height: 20px; width: 85%;"></div>
-        </div>
+        <img src="https://progress-bar.dev/85/?width=100&color=6C63FF" alt="Développement Back-end 85%" width="100%">
       </td>
     </tr>
     <tr>
-      <td width="40%">GESTION DE PROJET</td>
+      <td width="40%" align="right"><b>GESTION DE PROJET</b></td>
       <td width="60%">
-        <div style="background-color: #ddd; border-radius: 10px; height: 20px;">
-          <div style="background: linear-gradient(to right, #FF6B6B, #6C63FF); border-radius: 10px; height: 20px; width: 92%;"></div>
-        </div>
+        <img src="https://progress-bar.dev/92/?width=100&color=6C63FF" alt="Gestion de Projet 92%" width="100%">
       </td>
     </tr>
     <tr>
-      <td width="40%">SEO & ANALYTICS</td>
+      <td width="40%" align="right"><b>SEO & ANALYTICS</b></td>
       <td width="60%">
-        <div style="background-color: #ddd; border-radius: 10px; height: 20px;">
-          <div style="background: linear-gradient(to right, #FF6B6B, #6C63FF); border-radius: 10px; height: 20px; width: 88%;"></div>
-        </div>
+        <img src="https://progress-bar.dev/88/?width=100&color=6C63FF" alt="SEO & Analytics 88%" width="100%">
       </td>
     </tr>
   </table>
 </div>
 
 <!-- Technologies maîtrisées avec badges design -->
-<h3 align="center" style="margin-top:30px">⚙️ ARSENAL TECHNOLOGIQUE ⚙️</h3>
+<h3 align="center">⚙️ ARSENAL TECHNOLOGIQUE ⚙️</h3>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/MARKETING-ROI_200%25-FF6B6B?style=for-the-badge&logo=megaport&logoColor=white&labelColor=1F2937" alt="Marketing" />
-  <img src="https://img.shields.io/badge/CYBERSÉCURITÉ-EXPERT-6C63FF?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=1F2937" alt="Cybersécurité" />
-  <img src="https://img.shields.io/badge/SEO-STRATÉGIES_AVANCÉES-47A248?style=for-the-badge&logo=searchengine&logoColor=white&labelColor=1F2937" alt="SEO" />
-  <img src="https://img.shields.io/badge/RÉSEAUX_SOCIAUX-GROWTH_HACKING-1DA1F2?style=for-the-badge&logo=buffer&logoColor=white&labelColor=1F2937" alt="Réseaux Sociaux" />
-  <img src="https://img.shields.io/badge/MANAGEMENT-LEADERSHIP_AGILE-764ABC?style=for-the-badge&logo=academia&logoColor=white&labelColor=1F2937" alt="Management" />
+<div align="center">
+  <!-- Badges groupés par catégorie avec alignement uniforme -->
+  <div>
+    <!-- DOMAINES D'EXPERTISE -->
+    <p>
+      <img src="https://img.shields.io/badge/MARKETING-ROI_200%25-FF6B6B?style=for-the-badge&logo=megaport&logoColor=white&labelColor=1F2937" alt="Marketing" />
+      <img src="https://img.shields.io/badge/CYBERSÉCURITÉ-EXPERT-6C63FF?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=1F2937" alt="Cybersécurité" />
+      <img src="https://img.shields.io/badge/SEO-STRATÉGIES_AVANCÉES-47A248?style=for-the-badge&logo=searchengine&logoColor=white&labelColor=1F2937" alt="SEO" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/RÉSEAUX_SOCIAUX-GROWTH_HACKING-1DA1F2?style=for-the-badge&logo=buffer&logoColor=white&labelColor=1F2937" alt="Réseaux Sociaux" />
+      <img src="https://img.shields.io/badge/MANAGEMENT-LEADERSHIP_AGILE-764ABC?style=for-the-badge&logo=academia&logoColor=white&labelColor=1F2937" alt="Management" />
+    </p>
+  </div>
 </div>
 
 <!-- Technologies de développement -->
-<h3 align="center" style="margin-top:20px">🛠️ STACK TECHNIQUE 🛠️</h3>
+<h3 align="center">🛠️ STACK TECHNIQUE 🛠️</h3>
 
-<div align="center" style="margin:20px 0;">
-  <!-- Langages de programmation -->
-  <div style="margin-bottom:15px;">
-    <img src="https://img.shields.io/badge/FRONT--END-1F2937?style=for-the-badge" alt="Frontend"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </div>
+<div align="center">
+  <!-- Badges groupés par catégorie avec alignement uniforme -->
+  <div>
+    <!-- FRONT-END -->
+    <p>
+      <img src="https://img.shields.io/badge/FRONT--END-1F2937?style=for-the-badge" alt="Frontend"/>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+    </p>
   
-  <!-- Back-end & CMS -->
-  <div style="margin-bottom:15px;">
-    <img src="https://img.shields.io/badge/BACK--END-1F2937?style=for-the-badge" alt="Backend"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
-  </div>
+    <!-- BACK-END -->
+    <p>
+      <img src="https://img.shields.io/badge/BACK--END-1F2937?style=for-the-badge" alt="Backend"/>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+    </p>
   
-  <!-- Design & Outils -->
-  <div style="margin-bottom:15px;">
-    <img src="https://img.shields.io/badge/DESIGN_&_OUTILS-1F2937?style=for-the-badge" alt="Design & Outils"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-    <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  </div>
-
-  <!-- Sécurité & Cloud -->
-  <div style="margin-bottom:15px;">
-    <img src="https://img.shields.io/badge/SÉCURITÉ_&_CLOUD-1F2937?style=for-the-badge" alt="Sécurité & Cloud"/>
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-  </div>
+    <!-- DESIGN & OUTILS -->
+    <p>
+      <img src="https://img.shields.io/badge/DESIGN_&_OUTILS-1F2937?style=for-the-badge" alt="Design & Outils"/>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+      <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+      <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+    </p>
   
-  <!-- Outils de productivité -->
-  <div style="margin-bottom:15px;">
-    <img src="https://img.shields.io/badge/PRODUCTIVITÉ-1F2937?style=for-the-badge" alt="Productivité"/>
-    <img src="https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office 365"/>
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+    <!-- PRODUCTIVITÉ -->
+    <p>
+      <img src="https://img.shields.io/badge/PRODUCTIVITÉ-1F2937?style=for-the-badge" alt="Productivité"/>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+    </p>
   </div>
 </div>
 
@@ -380,59 +391,64 @@ Agence digitale basée à Abidjan, spécialisée en développement web, marketin
   </table>
 </div>
 
-<!-- Statistiques GitHub -->
+<!-- Statistiques GitHub avec présentation uniformisée -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
   STATISTIQUES GITHUB
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrsanogo&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="Statistiques GitHub" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrsanogo&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrsanogo&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophy" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrsanogo&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Graphique d'activité GitHub" width="95%"/>
+  <!-- Statistiques principales avec dimensionnement cohérent -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mrsanogo&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="Statistiques GitHub" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrsanogo&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" height="170"/>
+  </p>
+  
+  <!-- Trophées avec marges plus uniformes -->
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=Mrsanogo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" width="100%"/>
+  </p>
+  
+  <!-- Graphique d'activité avec présentation améliorée -->
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrsanogo&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Graphique d'activité GitHub" width="95%"/>
+  </p>
 </div>
 
 <!-- Contact et réseaux sociaux avec style design moderne -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif" width="32">
   CONTACTEZ-MOI
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif" width="32">
 </h2>
 
+<!-- Liens vers réseaux sociaux avec badges design et meilleur espacement -->
 <div align="center">
-  <a href="mailto:sanogoadama776@tuta.io">
-    <img src="https://img.shields.io/badge/EMAIL-sanogoadama776@tuta.io-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adama-sanogo-70794916a/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Adama_Sanogo-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/sanogo.adama.73">
-    <img src="https://img.shields.io/badge/FACEBOOK-sanogo.adama.73-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1F2937" alt="Facebook"/>
-  </a>
+  <p>
+    <a href="https://www.linkedin.com/in/alaeddine-sanogo/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/alaeddine_dz">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+  </p>
+  <p>
+    <a href="mailto:contact@alaeddine-sanogo.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.buymeacoffee.com/mrsanogo">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" width="200">
+    </a>
+  </p>
 </div>
 
-<div align="center" style="margin-top: 30px;">
-  <a href="https://www.buymeacoffee.com/mrsanogo" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-  </a>
-</div>
-
-<!-- Fun fact -->
-<div align="center" style="margin: 30px 0;">
-  <details>
-    <summary style="cursor: pointer; font-weight: bold; font-size: 18px; color: #6C63FF;">🌟 Fun Fact</summary>
-    <p style="padding: 15px; background: linear-gradient(135deg, rgba(255,107,107,0.1), rgba(108,99,255,0.1)); border-radius: 10px; margin-top: 10px;">
-      Je peux créer un site web complet plus rapidement que je ne peux cuisiner un plat élaboré ! 🍳💻
-    </p>
-  </details>
+<!-- Fun Fact compatible avec GitHub -->
+<div align="center">
+  <h3>FUN FACT</h3>
+  <p>
+    <img src="https://img.shields.io/badge/🍳_Je_code_avec_un_chat_sur_les_genoux_et_du_jazz_en_fond_🐱-1F2937?style=for-the-badge" alt="Fun Fact">
+  </p>
 </div>
 
 <!-- Footer avec animation de vague -->
