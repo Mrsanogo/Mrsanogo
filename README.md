@@ -1,46 +1,103 @@
-# Bienvenue sur le profil de @Mrsanogo ! 👋
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6dWZpZmhqajd1dXN2dG5kaHBjZ21sYnBxd3g4Y2w0ZGRxemJzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" width="250" />
+  <img src="https://i.imgur.com/tYVp2rM.png" alt="Bannière de profil de Mrsanogo - Innovation et Technologie en Côte d'Ivoire"/>
 </p>
 
+<div id="header" align="center">
+  <h1>
+    Salut, je suis Adama Sanogo 👋
+  </h1>
+  <h3>
+    Cofondateur de <a href="https://www.oromo.agency" target="_blank">Oromo Agency</a> & <a href="https://www.credilo.ci" target="_blank">Credilo.ci</a>
+  </h3>
+  <h4>
+    Développeur passionné par l'innovation et l'automatisation en Afrique.
+  </h4>
+</div>
+
 <p align="center">
-  <em>Passionné par la simplification des processus complexes pour stimuler l'innovation au sein des entreprises africaines !</em>
-</p>
-
----
-
-### À propos de moi
-
-- 👨‍💻 Je suis **@Mrsanogo**, un fervent adepte de la technologie, de l'innovation et de l'automatisation.
-- 🌍 Mon principal objectif est de contribuer à la transformation numérique des entreprises en **Côte d’Ivoire**.
-- 🌱 J'approfondis actuellement mes connaissances en **intégration d'IA avancée** et en **outils d'automatisation**.
-- 😄 **Pronoms :** Il/Lui
-
----
-
-### Mes centres d'intérêt et compétences
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,django,react,nodejs,docker,aws" />
+  <a href="https://www.linkedin.com/in/VOTRE_PROFIL_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/VOTRE_PROFIL_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:sanogoadama776@tuta.io">
+    <img src="https://img.shields.io/badge/Email-009688?style=for-the-badge&logo=tutanota&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-- 👀 Je m'intéresse de près à tout ce qui touche au développement web, au marketing digital et aux solutions basées sur l'intelligence artificielle.
-- 💞️ Je suis ouvert à toute collaboration sur des projets innovants qui ont un impact positif.
+---
+
+### Mes Projets & Entreprises
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Oromo Agency</h3>
+      <p align="center">
+        <a href="https://www.oromo.agency" target="_blank">
+          <img src="https://i.imgur.com/your-oromo-logo.png" width="100" alt="Logo Oromo Agency"/>
+        </a>
+        <br>
+        <i>Agence de marketing digital et de développement web dédiée à la croissance des entreprises.</i>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Credilo.ci</h3>
+      <p align="center">
+        <a href="https://www.credilo.ci" target="_blank">
+          <img src="https://i.imgur.com/your-credilo-logo.png" width="100" alt="Logo Credilo.ci"/>
+        </a>
+        <br>
+        <i>Plateforme innovante de solutions financières et de crédit en Côte d'Ivoire.</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Contactez-moi
+### Ma Boîte à Outils Technologique
 
-<p align="center">
-  <a href="mailto:sanogoadama776@tuta.io"><img src="https://img.shields.io/badge/TutaMail-black?style=for-the-badge&logo=tutanota&logoColor=white" alt="TutaMail"/></a>
-  <a href="https://www.linkedin.com/in/VOTRE_PROFIL_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <strong>Frontend</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwind" />
+      </a>
+    </td>
+    <td align="center">
+      <strong>Backend</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,python,django,fastapi" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Bases de données & Outils</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,docker,git,figma" />
+      </a>
+    </td>
+    <td align="center">
+      <strong>Automatisation & IA</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,gcp" />
+        <br><i>(Apprentissage en cours)</i>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
+### Mes Statistiques GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrsanogo&show_icons=true&theme=radical" alt="Statistiques GitHub de Mrsanogo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrsanogo&show_icons=true&theme=dracula&count_private=true&hide_border=true&card_width=450" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrsanogo&layout=compact&theme=dracula&hide_border=true" alt="Langages les plus utilisés" />
 </p>
+
+⚡ **Fun fact:** Je suis convaincu que la technologie est le levier le plus puissant pour simplifier la vie et accélérer le progrès économique local.
