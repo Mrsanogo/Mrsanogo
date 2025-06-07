@@ -78,35 +78,169 @@
   </table>
 </div>
 
-<!-- Technologies avec logos et animations -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Compétences Tech
+<!-- Super-pouvoirs techniques -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35">
+  SUPER-POUVOIRS TECHNIQUES
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35">
+</h2>
 
+<!-- Visualisation des compétences avec barres de progression -->
 <div align="center">
+  <table width="85%" style="margin-top:20px">
+    <tr>
+      <td width="40%">CYBERSÉCURITÉ</td>
+      <td width="60%">
+        <div style="background-color: #ddd; border-radius: 10px; height: 20px;">
+          <div style="background: linear-gradient(to right, #FF6B6B, #6C63FF); border-radius: 10px; height: 20px; width: 95%;"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="40%">MARKETING DIGITAL</td>
+      <td width="60%">
+        <div style="background-color: #ddd; border-radius: 10px; height: 20px;">
+          <div style="background: linear-gradient(to right, #FF6B6B, #6C63FF); border-radius: 10px; height: 20px; width: 90%;"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="40%">DÉVELOPPEMENT WEB</td>
+      <td width="60%">
+        <div style="background-color: #ddd; border-radius: 10px; height: 20px;">
+          <div style="background: linear-gradient(to right, #FF6B6B, #6C63FF); border-radius: 10px; height: 20px; width: 85%;"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="40%">GESTION DE PROJET</td>
+      <td width="60%">
+        <div style="background-color: #ddd; border-radius: 10px; height: 20px;">
+          <div style="background: linear-gradient(to right, #FF6B6B, #6C63FF); border-radius: 10px; height: 20px; width: 92%;"></div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="40%">SEO & ANALYTICS</td>
+      <td width="60%">
+        <div style="background-color: #ddd; border-radius: 10px; height: 20px;">
+          <div style="background: linear-gradient(to right, #FF6B6B, #6C63FF); border-radius: 10px; height: 20px; width: 88%;"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Technologies maîtrisées avec badges design -->
+<h3 align="center" style="margin-top:30px">⚙️ ARSENAL TECHNOLOGIQUE ⚙️</h3>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/MARKETING-ROI_200%25-FF6B6B?style=for-the-badge&logo=megaport&logoColor=white&labelColor=1F2937" alt="Marketing" />
+  <img src="https://img.shields.io/badge/CYBERSÉCURITÉ-EXPERT-6C63FF?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=1F2937" alt="Cybersécurité" />
+  <img src="https://img.shields.io/badge/SEO-STRATÉGIES_AVANCÉES-47A248?style=for-the-badge&logo=searchengine&logoColor=white&labelColor=1F2937" alt="SEO" />
+  <img src="https://img.shields.io/badge/RÉSEAUX_SOCIAUX-GROWTH_HACKING-1DA1F2?style=for-the-badge&logo=buffer&logoColor=white&labelColor=1F2937" alt="Réseaux Sociaux" />
+  <img src="https://img.shields.io/badge/MANAGEMENT-LEADERSHIP_AGILE-764ABC?style=for-the-badge&logo=academia&logoColor=white&labelColor=1F2937" alt="Management" />
+</div>
+
+<!-- Technologies de développement -->
+<h3 align="center" style="margin-top:20px">🛠️ STACK TECHNIQUE 🛠️</h3>
+
+<div align="center" style="margin:20px 0;">
+  <!-- Langages de programmation -->
+  <div style="margin-bottom:15px;">
+    <img src="https://img.shields.io/badge/FRONT--END-1F2937?style=for-the-badge" alt="Frontend"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </div>
   
-  <!-- Marketing & Gestion -->
-  <h3>Marketing & Gestion</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Gestion%20de%20Projet-007ACC?style=for-the-badge" alt="Gestion de Projets" />
-    <img src="https://img.shields.io/badge/Marketing%20Digital-FF6B6B?style=for-the-badge" alt="Marketing Digital" />
-    <img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge" alt="SEO" />
-    <img src="https://img.shields.io/badge/Réseaux%20Sociaux-1DA1F2?style=for-the-badge" alt="Réseaux Sociaux" />
-    <img src="https://img.shields.io/badge/Veille%20Concurrentielle-764ABC?style=for-the-badge" alt="Veille Concurrentielle" />
-  </p>
+  <!-- Back-end & CMS -->
+  <div style="margin-bottom:15px;">
+    <img src="https://img.shields.io/badge/BACK--END-1F2937?style=for-the-badge" alt="Backend"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+  </div>
   
-  <!-- Développement -->
-  <h3>Développement Web</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress" alt="Développement Web Technologies" />
-  </p>
+  <!-- Design & Outils -->
+  <div style="margin-bottom:15px;">
+    <img src="https://img.shields.io/badge/DESIGN_&_OUTILS-1F2937?style=for-the-badge" alt="Design & Outils"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+    <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  </div>
+
+  <!-- Sécurité & Cloud -->
+  <div style="margin-bottom:15px;">
+    <img src="https://img.shields.io/badge/SÉCURITÉ_&_CLOUD-1F2937?style=for-the-badge" alt="Sécurité & Cloud"/>
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  </div>
   
-  <!-- Sécurité & Outils -->
-  <h3>Cybersécurité & Outils</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Cybersécurité-FF4500?style=for-the-badge" alt="Cybersécurité" />
-    <img src="https://img.shields.io/badge/Suite%20Office-217346?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Suite Office" />
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-    <img src="https://img.shields.io/badge/Maintenance%20IT-4285F4?style=for-the-badge" alt="Maintenance IT" />
-  </p>
+  <!-- Outils de productivité -->
+  <div style="margin-bottom:15px;">
+    <img src="https://img.shields.io/badge/PRODUCTIVITÉ-1F2937?style=for-the-badge" alt="Productivité"/>
+    <img src="https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office 365"/>
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  </div>
+</div>
+
+<!-- Technologies avec icônes -->
+<div align="center">
+  <h3 style="margin-top:25px;">📊 OUTILS DE DÉVELOPPEMENT FAVORIS</h3>
+  <table width="80%" style="border-collapse: collapse; margin: 20px auto; border: none;">
+    <tr>
+      <td align="center" width="20%" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML" />
+        <p>HTML5</p>
+      </td>
+      <td align="center" width="20%" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS" />
+        <p>CSS3</p>
+      </td>
+      <td align="center" width="20%" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
+        <p>JavaScript</p>
+      </td>
+      <td align="center" width="20%" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=php" width="50" alt="PHP" />
+        <p>PHP</p>
+      </td>
+      <td align="center" width="20%" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" />
+        <p>MySQL</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="50" alt="WordPress" />
+        <p>WordPress</p>
+      </td>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap" />
+        <p>Bootstrap</p>
+      </td>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma" />
+        <p>Figma</p>
+      </td>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code" />
+        <p>VS Code</p>
+      </td>
+      <td align="center" style="padding:15px;">
+        <img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux" />
+        <p>Linux</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Parcours professionnel avec timeline moderne -->
