@@ -111,36 +111,38 @@ Agence digitale basée à Abidjan, spécialisée en développement web, marketin
 </h2>
 
 <!-- Visualisation des compétences avec barres de progression compatibles GitHub -->
+<h2 align="center">✨ SUPER-POUVOIRS TECHNIQUES ✨</h2>
+
 <div align="center">
   <table>
     <tr>
-      <td width="40%" align="right"><b>CYBERSÉCURITÉ</b></td>
-      <td width="60%">
-        <img src="https://progress-bar.dev/95/?width=400&color=6C63FF" alt="Cybersécurité" />
+      <td align="right"><b>CYBERSÉCURITÉ</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/🔒_95%25-6C63FF?style=for-the-badge" alt="Cybersécurité" />
       </td>
     </tr>
     <tr>
-      <td width="40%" align="right"><b>DÉVELOPPEMENT FRONT-END</b></td>
-      <td width="60%">
-        <img src="https://progress-bar.dev/90/?width=400&color=6C63FF" alt="Front-end" />
+      <td align="right"><b>DÉVELOPPEMENT FRONT-END</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/👨‍💻_90%25-6C63FF?style=for-the-badge" alt="Front-end" />
       </td>
     </tr>
     <tr>
-      <td width="40%" align="right"><b>DÉVELOPPEMENT BACK-END</b></td>
-      <td width="60%">
-        <img src="https://progress-bar.dev/85/?width=400&color=6C63FF" alt="Back-end" />
+      <td align="right"><b>DÉVELOPPEMENT BACK-END</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/⚙️_85%25-6C63FF?style=for-the-badge" alt="Back-end" />
       </td>
     </tr>
     <tr>
-      <td width="40%" align="right"><b>GESTION DE PROJET</b></td>
-      <td width="60%">
-        <img src="https://progress-bar.dev/92/?width=400&color=6C63FF" alt="Gestion de projet" />
+      <td align="right"><b>GESTION DE PROJET</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/📅_92%25-6C63FF?style=for-the-badge" alt="Gestion de projet" />
       </td>
     </tr>
     <tr>
-      <td width="40%" align="right"><b>SEO & ANALYTICS</b></td>
-      <td width="60%">
-        <img src="https://progress-bar.dev/88/?width=400&color=6C63FF" alt="SEO & Analytics" />
+      <td align="right"><b>SEO & ANALYTICS</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/📈_88%25-6C63FF?style=for-the-badge" alt="SEO & Analytics" />
       </td>
     </tr>
   </table>
