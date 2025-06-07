@@ -44,7 +44,10 @@
   🎯 Objectif: Révolutionner les entreprises africaines grâce aux technologies numériques<br>
   ☕ Transforme les défis en opportunités<br>
   🎮 Hobbies: Football, Vélo et Voyages (Maroc, France, Mali)<br>
-  📫 Me contacter: <a href="mailto:sanogoadama776@tuta.io">sanogoadama776@tuta.io</a> | 📱 0779323110 / 0500083939
+  📫 Email: <a href="mailto:sanogoadama776@tuta.io">sanogoadama776@tuta.io</a><br>
+  📱 Téléphone: 0779323110<br>
+  💬 WhatsApp: 0500083939<br>
+  📃 CV: <a href="https://cv.oromo.agency" target="_blank">cv.oromo.agency</a>
 </p>
 
 <!-- Empire entrepreneurial -->
@@ -58,46 +61,48 @@
 <table width="100%">
 <tr align="center">
 <td align="center" width="33%">
-  <a href="https://www.facebook.com/groups/231030537851701">
+  <a href="https://www.facebook.com/groups/231030537851701" target="_blank">
     <img src="https://cdn.oromo.agency/yedor.png" width="80px" height="80px" alt="Yedor Logo">
+  </a>
     
-### Yedor 
+### Yedor
     
 Application de réservation immobilière en Côte d'Ivoire, connectant propriétaires et locataires. Un service local optimisé, inspiré du modèle Airbnb.
 
 **Technologies:** 
 `React` `Node.js` `MongoDB` `Google Maps API` `Stripe`
 
-<img src="https://img.shields.io/badge/Découvrir_Yedor-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Découvrir Yedor">
-  </a>
+<a href="https://www.facebook.com/groups/231030537851701" target="_blank"><img src="https://img.shields.io/badge/Découvrir-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </td>
+
 <td align="center" width="33%">
-  <a href="https://credilo.ci/">
+  <a href="https://credilo.ci/" target="_blank">
     <img src="https://cdn.oromo.agency/credilo.png" width="80px" height="80px" alt="Credilo Logo">
+  </a>
     
 ### Credilo
     
-Plateforme mobile simplifiant l'achat de crédit téléphonique, souscriptions, transferts d'argent, cartes cadeaux et Visa prépayée. Une solution rapide, sécurisée et accessible à tous.
+Solution financière innovante pour faciliter l'accès au crédit et aux services bancaires en Côte d'Ivoire.
 
-**Technologies:**
-`Vue.js` `Firebase` `TailwindCSS` `PWA` `Mobile Money`
+**Technologies:** 
+`PHP` `Laravel` `MySQL` `Bootstrap` `API Bancaire`
 
-<img src="https://img.shields.io/badge/Découvrir_Credilo-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Découvrir Credilo">
-  </a>
+<a href="https://credilo.ci/" target="_blank"><img src="https://img.shields.io/badge/Visiter-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Site web"/></a>
 </td>
+
 <td align="center" width="33%">
-  <a href="https://www.oromo.agency/">
-    <img src="https://cdn.oromo.agency/oromo.png" width="80px" height="80px" alt="Oromo Agency Logo">
+  <a href="https://www.oromo.agency/" target="_blank">
+    <img src="https://res.cloudinary.com/ddofgbxfd/image/upload/w_100,h_100,c_fit,q_100,f_png,dpr_2.0/xuxegykcznkpdsvwdg59" width="80px" height="80px" alt="Oromo Agency Logo">
+  </a>
     
 ### Oromo Agency
     
-Agence digitale basée à Abidjan, spécialisée en développement web, marketing digital, IA et cybersécurité. Nous créons des solutions sur mesure pour divers secteurs.
+Agence de développement web et marketing digital spécialisée dans la transformation numérique des entreprises africaines.
 
-**Technologies:**
-`React` `Google Analytics` `Expo` `SEO Tools` `Meta Ads`
+**Technologies:** 
+`WordPress` `React` `Python` `Adobe Suite` `SEO`
 
-<img src="https://img.shields.io/badge/Découvrir_Oromo-6C63FF?style=for-the-badge&logo=globe&logoColor=white" alt="Découvrir Oromo">
-  </a>
+<a href="https://www.oromo.agency/" target="_blank"><img src="https://img.shields.io/badge/Site_Web-6C63FF?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Site web"/></a>
 </td>
 </tr>
 </table>
@@ -416,27 +421,35 @@ Agence digitale basée à Abidjan, spécialisée en développement web, marketin
 
 <!-- Contact et réseaux sociaux avec style design moderne -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif" width="32">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
   CONTACTEZ-MOI
-  <img src="https://media.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif" width="32">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
 </h2>
 
-<!-- Liens vers réseaux sociaux avec badges design et meilleur espacement -->
 <div align="center">
+  <!-- Réseaux sociaux avec badges uniformes -->
   <p>
-    <a href="https://www.linkedin.com/in/alaeddine-sanogo/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <a href="https://www.facebook.com/motdepass01" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
-    <a href="https://twitter.com/alaeddine_dz">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <a href="https://www.linkedin.com/in/adama-sanogo-9a1952327/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/_adama_sanogo" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
   </p>
+  
+  <!-- Contact direct -->
   <p>
-    <a href="mailto:contact@alaeddine-sanogo.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <a href="mailto:sanogoadama776@tuta.io">
+      <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.buymeacoffee.com/mrsanogo">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" width="200">
+    <a href="https://wa.me/2250500083939" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="https://cv.oromo.agency" target="_blank">
+      <img src="https://img.shields.io/badge/Mon_CV-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white" alt="CV" />
     </a>
   </p>
 </div>
