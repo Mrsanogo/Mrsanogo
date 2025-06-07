@@ -109,129 +109,186 @@
   </p>
 </div>
 
-<!-- Expérience professionnelle -->
-## <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30"> Expérience Professionnelle
+<!-- Parcours professionnel avec timeline moderne -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30">
+  PARCOURS PROFESSIONNEL
+  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30">
+</h2>
 
 <div align="center">
-  <table>
+  <img src="https://media.giphy.com/media/cnuGvE0TK7JYjTNk1P/giphy.gif" width="80" />
+</div>
+
+<!-- Timeline verticale stylisée -->
+<div style="margin: 30px 10%;">
+  <!-- Expérience 1 -->
+  <div style="display: flex; margin-bottom: 30px;">
+    <div style="min-width: 150px; text-align: right; padding-right: 20px; position: relative;">
+      <div style="font-weight: bold; color: #FF6B6B;">2023 - Présent</div>
+      <div style="height: calc(100% - 20px); width: 2px; background: linear-gradient(to bottom, #FF6B6B, #6C63FF); position: absolute; right: 0; top: 25px;"></div>
+    </div>
+    <div style="background: rgba(108, 99, 255, 0.1); border-left: 4px solid #6C63FF; padding: 15px; border-radius: 0 10px 10px 0; flex-grow: 1;">
+      <h3 style="margin-top: 0; color: #6C63FF;">Directeur Technique</h3>
+      <h4>Oromo Agency, Abidjan</h4>
+      <p>Direction des opérations techniques, supervision des projets digitaux et développement de solutions innovantes pour les clients premium en Côte d'Ivoire et à l'international.</p>
+      <div>
+        <span style="background: rgba(255, 107, 107, 0.2); padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Leadership</span>
+        <span style="background: rgba(108, 99, 255, 0.2); padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Innovation</span>
+        <span style="background: rgba(255, 215, 0, 0.2); padding: 5px 10px; border-radius: 20px; font-size: 12px;">Stratégie</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Expérience 2 -->
+  <div style="display: flex; margin-bottom: 30px;">
+    <div style="min-width: 150px; text-align: right; padding-right: 20px; position: relative;">
+      <div style="font-weight: bold; color: #FF6B6B;">2021 - 2023</div>
+      <div style="height: calc(100% - 20px); width: 2px; background: linear-gradient(to bottom, #FF6B6B, #6C63FF); position: absolute; right: 0; top: 25px;"></div>
+    </div>
+    <div style="background: rgba(108, 99, 255, 0.1); border-left: 4px solid #6C63FF; padding: 15px; border-radius: 0 10px 10px 0; flex-grow: 1;">
+      <h3 style="margin-top: 0; color: #6C63FF;">Expert Cybersécurité</h3>
+      <h4>Ministère du Numérique, Abidjan</h4>
+      <p>Mise en œuvre des politiques de sécurité numérique pour les infrastructures gouvernementales. Gestion des audits de sécurité et formation des équipes techniques.</p>
+      <div>
+        <span style="background: rgba(255, 107, 107, 0.2); padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Sécurité</span>
+        <span style="background: rgba(108, 99, 255, 0.2); padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Formation</span>
+        <span style="background: rgba(255, 215, 0, 0.2); padding: 5px 10px; border-radius: 20px; font-size: 12px;">Audit</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Expérience 3 -->
+  <div style="display: flex;">
+    <div style="min-width: 150px; text-align: right; padding-right: 20px; position: relative;">
+      <div style="font-weight: bold; color: #FF6B6B;">2018 - 2021</div>
+      <div style="height: calc(100% - 20px); width: 2px; background: linear-gradient(to bottom, #FF6B6B, #6C63FF); position: absolute; right: 0; top: 25px;"></div>
+    </div>
+    <div style="background: rgba(108, 99, 255, 0.1); border-left: 4px solid #6C63FF; padding: 15px; border-radius: 0 10px 10px 0; flex-grow: 1;">
+      <h3 style="margin-top: 0; color: #6C63FF;">Chef de Projet Digital</h3>
+      <h4>Africlick Solutions, Abidjan</h4>
+      <p>Gestion de projets de transformation digitale pour les PME ivoiriennes. Développement de stratégies marketing digital et mise en place d'infrastructures web.</p>
+      <div>
+        <span style="background: rgba(255, 107, 107, 0.2); padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Projets</span>
+        <span style="background: rgba(108, 99, 255, 0.2); padding: 5px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Marketing</span>
+        <span style="background: rgba(255, 215, 0, 0.2); padding: 5px 10px; border-radius: 20px; font-size: 12px;">Développement</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Formation et Certifications -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="30">
+  FORMATION & CERTIFICATIONS
+  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="30">
+</h2>
+
+<div align="center">
+  <table width="90%" style="border-collapse: separate; border-spacing: 0 15px;">
     <tr>
-      <td width="50%">
-        <h3 align="center">🌟 SANGUFAKA GROUP SA (2019-2020)</h3>
-        <div align="center">
-          <p><strong>Assistant Marketing & Développeur Web</strong></p>
-          <ul align="left">
-            <li>Gestion de campagnes marketing numériques optimisées</li>
-            <li>Création et maintenance de sites web fonctionnels</li>
-            <li>Veille concurrentielle et recommandations stratégiques</li>
-            <li>Optimisation SEO pour améliorer la visibilité en ligne</li>
-          </ul>
-        </div>
+      <td width="25%" style="text-align: center; vertical-align: middle;">
+        <img src="https://img.icons8.com/color/96/000000/certificate.png" width="60"/>
       </td>
-      <td width="50%">
-        <h3 align="center">🌟 YEDISHOP (2019-2020)</h3>
-        <div align="center">
-          <p><strong>Responsable de communauté</strong></p>
-          <ul align="left">
-            <li>Gestion de campagnes réseaux sociaux avec un ROI de 200%</li>
-            <li>Augmentation de la visibilité de la marque sur Facebook</li>
-          </ul>
-        </div>
+      <td style="background: rgba(108, 99, 255, 0.1); border-left: 4px solid #6C63FF; padding: 15px; border-radius: 0 10px 10px 0;">
+        <h3 style="margin-top: 0; color: #6C63FF;">Master en Cybersécurité et Management des SI</h3>
+        <h4>École Supérieure Africaine des TIC (ESATIC) | 2018</h4>
+        <p>Spécialisation en sécurité des infrastructures critiques et gestion des risques informatiques</p>
       </td>
     </tr>
     <tr>
-      <td colspan="2">
-        <h3 align="center">🌟 NSIA RENEC ENTREPRISE (2017-2018)</h3>
-        <div align="center">
-          <p><strong>Stage en sécurité informatique</strong></p>
-          <ul align="left">
-            <li>Formation des équipes aux bonnes pratiques de sécurité</li>
-            <li>Surveillance continue des infrastructures numériques</li>
-            <li>Participation à la gestion des incidents de sécurité</li>
-          </ul>
-        </div>
+      <td width="25%" style="text-align: center; vertical-align: middle;">
+        <img src="https://img.icons8.com/color/96/000000/services.png" width="60"/>
+      </td>
+      <td style="background: rgba(255, 107, 107, 0.1); border-left: 4px solid #FF6B6B; padding: 15px; border-radius: 0 10px 10px 0;">
+        <h3 style="margin-top: 0; color: #FF6B6B;">Certified Information Security Manager (CISM)</h3>
+        <h4>ISACA | 2020</h4>
+        <p>Certification internationale en gestion de la sécurité de l'information</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" style="text-align: center; vertical-align: middle;">
+        <img src="https://img.icons8.com/color/96/000000/project-management.png" width="60"/>
+      </td>
+      <td style="background: rgba(255, 215, 0, 0.1); border-left: 4px solid #FFD700; padding: 15px; border-radius: 0 10px 10px 0;">
+        <h3 style="margin-top: 0; color: #FFD700;">Project Management Professional (PMP)</h3>
+        <h4>Project Management Institute | 2021</h4>
+        <p>Méthodologies agiles et traditionnelles de gestion de projet</p>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Certifications -->
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> Formation & Certifications
+<!-- Statistiques GitHub -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  STATISTIQUES GITHUB
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%"><strong>2020</strong></td>
-      <td>Certificat National d'Enseignement Supérieur - EC-Council</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>2019</strong></td>
-      <td>Certificat National d'Enseignement Supérieur - Udemy</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>2018</strong></td>
-      <td>Certificat National d'Enseignement Supérieur - Udemy</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>2017</strong></td>
-      <td>Certificat National d'Enseignement Supérieur - Udacity</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>2016</strong></td>
-      <td>Certificat National d'Enseignement Supérieur - Cybrary</td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrsanogo&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="Statistiques GitHub" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrsanogo&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" height="170"/>
 </div>
-
-<!-- Statistiques GitHub avec animations -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mrsanogo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrsanogo&theme=tokyonight&hide_border=true" alt="Contributions" />
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Graphique d'activité -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrsanogo&theme=tokyo-night&hide_border=true" alt="Graphique d'activité" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrsanogo&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophy" width="100%"/>
 </div>
 
-<!-- Contact -->
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"> Connectons-nous!
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrsanogo&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Graphique d'activité GitHub" width="95%"/>
+</div>
+
+<!-- Contact et réseaux sociaux avec style design moderne -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30">
+  CONTACTEZ-MOI
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30">
+</h2>
 
 <div align="center">
   <a href="mailto:sanogoadama776@tuta.io">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-sanogoadama776@tuta.io-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" alt="Email"/>
   </a>
-  <a href="https://www.facebook.com/motdepass01">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://www.linkedin.com/in/adama-sanogo-70794916a/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Adama_Sanogo-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/_adama_sanogo">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.facebook.com/sanogo.adama.73">
+    <img src="https://img.shields.io/badge/FACEBOOK-sanogo.adama.73-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1F2937" alt="Facebook"/>
   </a>
-  <a href="https://www.linkedin.com/in/adama-sanogo-9a1952327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://forms.oromo.agency/">
-    <img src="https://img.shields.io/badge/Formulaire%20de%20Contact-4285F4?style=for-the-badge&logo=google-forms&logoColor=white" alt="Formulaire de Contact"/>
+</div>
+
+<div align="center" style="margin-top: 30px;">
+  <a href="https://www.buymeacoffee.com/mrsanogo" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
   </a>
 </div>
 
 <!-- Fun fact -->
-<div align="center">
-  <h3>⚡ Fun fact</h3>
-  <p>Je suis passionné par la simplification des processus complexes pour stimuler l'innovation dans les entreprises africaines!</p>
+<div align="center" style="margin: 30px 0;">
+  <details>
+    <summary style="cursor: pointer; font-weight: bold; font-size: 18px; color: #6C63FF;">🌟 Fun Fact</summary>
+    <p style="padding: 15px; background: linear-gradient(135deg, rgba(255,107,107,0.1), rgba(108,99,255,0.1)); border-radius: 10px; margin-top: 10px;">
+      Je peux créer un site web complet plus rapidement que je ne peux cuisiner un plat élaboré ! 🍳💻
+    </p>
+  </details>
 </div>
 
-<!-- Pied de page avec animation de vague -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-<!-- Bonus: Snake animation des contributions -->
+<!-- Footer avec animation de vague -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<!-- Animation Snake contribution -->
+<div align="center">
+  <img src="https://github.com/Mrsanogo/Mrsanogo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<!-- Compteur de visiteurs -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Mrsanogo/count.svg" alt="Compteur de visiteurs"/>
+</div>
+
+<div align="center">
+  <i>⭐ N'hésitez pas à mettre une étoile sur mes repositories si vous les trouvez intéressants ! ⭐</i>
 </div>
